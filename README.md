@@ -14,7 +14,7 @@ Fan/AC,
 Mobile,
 #### Execuation approach:
 This system is designed for controlling the devices, it includes a cell phone which is connect to the system via head set. To active the cellular phone part of the system a call is to be made and as the call is answered, in response the user would enter a three/four(as he/she want) digit password to access the system to control devices. As the caller press the specific password, it results in turning ON or OFF specific device. The device switching is achieved by Relays.
-####### Special features/advantages of the design:
+##### Special features/advantages of the design:
 DTMF Control: It employs DTMF (Dual Tone Multi-Frequency) signaling, allowing users to control home appliances remotely using a telephone keypad. Each button press generates a unique combination of two frequencies, enabling precise control over the system.
 
 Remote Operation: Users can control home appliances from a distance, offering convenience and flexibility. This feature is particularly useful for controlling devices when away from home.
