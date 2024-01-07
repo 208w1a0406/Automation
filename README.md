@@ -5,13 +5,13 @@ appliances, routers, and a fire alert system.
 <img width="435" alt="image" src="https://github.com/208w1a0406/Automation/assets/116477770/71f8c838-82e3-4a27-a478-47a0082a2369">
 
 ### Component Specifications:
-MC
-DTMF Decoder
-Relay
-LCD
-Washing Machine
-Fan/AC
-Mobile
+MC,
+DTMF Decoder,
+Relay,
+LCD,
+Washing Machine,
+Fan/AC,
+Mobile,
 #### Execuation approach:
 This system is designed for controlling the devices, it includes a cell phone which is connect to the system via head set. To active the cellular phone part of the system a call is to be made and as the call is answered, in response the user would enter a three/four(as he/she want) digit password to access the system to control devices. As the caller press the specific password, it results in turning ON or OFF specific device. The device switching is achieved by Relays.
 ####### Special features/advantages of the design:
