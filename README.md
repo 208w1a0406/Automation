@@ -1,10 +1,9 @@
-# Automation
-## Design Approach:
+# Automation Design Approach:
 Design and suggest automation implementations for a room containing an AC, fan, lights, windows, electrical
 appliances, routers, and a fire alert system.
-### Block diagram/schematics:
+## Block diagram/schematics:
 <img width="435" alt="image" src="https://github.com/208w1a0406/Automation/assets/116477770/71f8c838-82e3-4a27-a478-47a0082a2369">
-#### Component Specifications:
+### Component Specifications:
 MC
 DTMF Decoder
 Relay
